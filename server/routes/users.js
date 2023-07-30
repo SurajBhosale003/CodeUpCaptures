@@ -3,10 +3,10 @@ import {
     getUser,
     getUserFriends,
     addRemoveFriend,
-} from "../controllers/users.js"
+} from "../controllers/user.js"
 import { verifyToken } from '../middleware/auth.js';
 
-const router = express.router();
+const router = express.Router();
 
 // Read
  router.get("/:id", verifyToken, getUser);
