@@ -7,5 +7,11 @@ https://youtu.be/K8YELRmUb5o?t=4119
 
 2nd stop https://youtu.be/K8YELRmUb5o?t=4961
 
+
+
+3rd  https://youtu.be/K8YELRmUb5o?t=8547
+
+4th
+
 Website for Codeup Community to showcase the skill sets on a diffrent social network.
 Created Flow Chart
